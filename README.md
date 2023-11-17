@@ -2,4 +2,4 @@
 JSON Parsing Tool
 
 ## Tech Stack followed
-Java core
+Java stack with SpringBoot
